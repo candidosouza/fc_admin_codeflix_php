@@ -1,0 +1,16 @@
+{
+    "name": "candidosouza/fc_admin_codeflix_php",
+    "description": "Repositório curso Full Cycle 3.0 - Microsserviço: Administração do Catálogo de vídeos com php ( Back-end )",
+    "authors": [
+        {
+            "name": "Candido Souza",
+            "email": "candidosouzza@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
+    "require": {}
+}
